@@ -8,6 +8,4 @@ dependencies:
   - bqplot
   - scipy
   - ipympl
-  - xleaflet=0.17.0
-  - xeus-cling=0.15.3
   - python=3.10
