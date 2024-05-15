@@ -2,12 +2,12 @@ name: voila
 channels:
   - conda-forge
 dependencies:
-  - jupyterlab=3.6
+  - jupyterlab=4
   - ipywidgets=8
   - ipyvolume
   - bqplot
   - scipy
   - ipympl
-  - xleaflet=0.16.0
-  - xeus-cling=0.13.0
+  - xleaflet=0.17.0
+  - xeus-cling=0.15.3
   - python=3.10
